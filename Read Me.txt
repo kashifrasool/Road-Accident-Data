@@ -1,5 +1,7 @@
 Road Accident Dashboard Tableau
 
+A project in which Tableau is used to create a dashboard which provides information about road accidents and its related details.
+
 
 Kashif Rasool
 
